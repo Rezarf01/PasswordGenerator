@@ -3,8 +3,12 @@ Simple GUI password generator with python and tkinter
 
 To run:
 
-Windows
+Windows:
 ```bash
 python main.py
+```
+Mac/Linux:
+```bash
+python3 main.py
 ```
 
