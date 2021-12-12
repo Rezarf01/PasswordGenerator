@@ -1,4 +1,8 @@
 # PasswordGenerator
 Simple GUI password generator
 
-hellsdf
+To run:
+```bash
+python main.py
+```
+
