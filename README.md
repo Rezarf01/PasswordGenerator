@@ -1,8 +1,9 @@
 # PasswordGenerator
-Simple GUI password generator
+Simple GUI password generator with python and tkinter
 
 To run:
-```bash
-python main.py
-```
+  Windows
+  ```bash
+  python main.py
+  ```
 
